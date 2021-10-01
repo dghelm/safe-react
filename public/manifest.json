@@ -1,0 +1,15 @@
+
+{
+	"short_name": "Gnosis Safe UNOFFICIAL",
+	"name": "Gnosis Safe UNOFFICIAL",
+	"description": "Allowing crypto users manage funds in a safer way.",
+	"icons": [
+	  {
+	    "src": "favicon.ico",
+	    "sizes": "256x256",
+	    "type": "image/png"
+	  }
+	],
+	"theme_color": "#000000",
+	"skylink": ""
+}

@@ -2,6 +2,7 @@
   "name": "safe-react",
   "version": "3.14.1",
   "description": "Allowing crypto users manage funds in a safer way",
+  "homepage": ".",
   "website": "https://github.com/gnosis/safe-react#readme",
   "bugs": {
     "url": "https://github.com/gnosis/safe-react/issues"
